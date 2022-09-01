@@ -1,2 +1,2 @@
 # visualization-projects
-tableau, power-bi, excel, all can be found here
+tableau, power-bi, excel, kibana, graphana, all can be found here
